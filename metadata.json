@@ -1,0 +1,8 @@
+{
+  "name": "Remix DéGo",
+  "description": "منصة لعبة النرد التنافسية DéGo - تجربة رمي النرد التفاعلية برصيد تجريبي وتحديات حية",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
